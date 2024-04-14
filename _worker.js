@@ -11,7 +11,9 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://ipdb.api.030101.xyz/?type=bestproxy&country=true'
+	'https://raw.githubusercontent.com/yesli/WorkerVless2sub/main/addressesapi.txt'
+	'https://raw.githubusercontent.com/yesli/WorkerVless2sub/main/addressesipv6api.txt'
+	'https://addressesapi.090227.xyz/cmcc'
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
